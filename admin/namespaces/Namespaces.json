@@ -1,0 +1,20 @@
+{
+  "http://docs.oasis-open.org/tosca/ToscaNormativeTypes" : {
+    "namespace" : "http://docs.oasis-open.org/tosca/ToscaNormativeTypes",
+    "prefix" : "ToscaNormativeTypes",
+    "readableName" : "",
+    "upstreamRepository" : "",
+    "secureCollection" : false,
+    "patternCollection" : false,
+    "generatedNamespace" : false
+  },
+  "http://docs.oasis-open.org/tosca/ToscaNormativeTypes/propertiesdefinition/winery" : {
+    "namespace" : "http://docs.oasis-open.org/tosca/ToscaNormativeTypes/propertiesdefinition/winery",
+    "prefix" : "pdIToscaNormativeTypes",
+    "readableName" : "",
+    "upstreamRepository" : "",
+    "secureCollection" : false,
+    "patternCollection" : false,
+    "generatedNamespace" : false
+  }
+}
