@@ -5,8 +5,8 @@
     "readableName" : "",
     "upstreamRepository" : "",
     "secureCollection" : false,
-    "patternCollection" : false,
-    "generatedNamespace" : false
+    "generatedNamespace" : false,
+    "patternCollection" : false
   },
   "http://docs.oasis-open.org/tosca/ToscaNormativeTypes/propertiesdefinition/winery" : {
     "namespace" : "http://docs.oasis-open.org/tosca/ToscaNormativeTypes/propertiesdefinition/winery",
@@ -14,7 +14,7 @@
     "readableName" : "",
     "upstreamRepository" : "",
     "secureCollection" : false,
-    "patternCollection" : false,
-    "generatedNamespace" : false
+    "generatedNamespace" : false,
+    "patternCollection" : false
   }
 }
