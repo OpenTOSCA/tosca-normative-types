@@ -20,7 +20,7 @@
             </winery:properties>
         </winery:PropertiesDefinition>
         <CapabilityDefinitions>
-            <CapabilityDefinition xmlns:ToscaNormativeTypes="http://docs.oasis-open.org/tosca/ToscaNormativeTypes" name="attachment" capabilityType="ToscaNormativeTypes:Attachment" lowerBound="1" upperBound="1" validSourceTypes=""/>
+            <CapabilityDefinition xmlns:ToscaNormativeTypes="http://docs.oasis-open.org/tosca/ToscaNormativeTypes" name="attachment" capabilityType="ToscaNormativeTypes:Attachment" lowerBound="1" upperBound="1"/>
         </CapabilityDefinitions>
     </NodeType>
 </Definitions>

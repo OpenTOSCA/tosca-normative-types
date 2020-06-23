@@ -3,8 +3,8 @@
     <NodeType name="ContainerRuntime" abstract="no" final="no" targetNamespace="http://docs.oasis-open.org/tosca/ToscaNormativeTypes">
         <DerivedFrom xmlns:ToscaNormativeTypes="http://docs.oasis-open.org/tosca/ToscaNormativeTypes" typeRef="ToscaNormativeTypes:SoftwareComponent"/>
         <CapabilityDefinitions>
-            <CapabilityDefinition xmlns:ToscaNormativeTypes="http://docs.oasis-open.org/tosca/ToscaNormativeTypes" name="host" capabilityType="ToscaNormativeTypes:Compute" lowerBound="0" upperBound="UNBOUNDED" validSourceTypes=""/>
-            <CapabilityDefinition xmlns:ToscaNormativeTypes="http://docs.oasis-open.org/tosca/ToscaNormativeTypes" name="scalable" capabilityType="ToscaNormativeTypes:Scalable" lowerBound="0" upperBound="UNBOUNDED" validSourceTypes=""/>
+            <CapabilityDefinition xmlns:ToscaNormativeTypes="http://docs.oasis-open.org/tosca/ToscaNormativeTypes" name="host" capabilityType="ToscaNormativeTypes:Compute" lowerBound="0" upperBound="UNBOUNDED"/>
+            <CapabilityDefinition xmlns:ToscaNormativeTypes="http://docs.oasis-open.org/tosca/ToscaNormativeTypes" name="scalable" capabilityType="ToscaNormativeTypes:Scalable" lowerBound="0" upperBound="UNBOUNDED"/>
         </CapabilityDefinitions>
     </NodeType>
 </Definitions>

@@ -12,7 +12,7 @@
             </winery:properties>
         </winery:PropertiesDefinition>
         <CapabilityDefinitions>
-            <CapabilityDefinition xmlns:ToscaNormativeTypes="http://docs.oasis-open.org/tosca/ToscaNormativeTypes" name="storage_endpoint" capabilityType="ToscaNormativeTypes:Storage" lowerBound="0" upperBound="UNBOUNDED" validSourceTypes=""/>
+            <CapabilityDefinition xmlns:ToscaNormativeTypes="http://docs.oasis-open.org/tosca/ToscaNormativeTypes" name="storage_endpoint" capabilityType="ToscaNormativeTypes:Storage" lowerBound="0" upperBound="UNBOUNDED"/>
         </CapabilityDefinitions>
     </NodeType>
 </Definitions>

@@ -5,11 +5,11 @@
             <RequirementDefinition xmlns:ToscaNormativeTypes="http://docs.oasis-open.org/tosca/ToscaNormativeTypes" name="local_storage" requirementType="ToscaNormativeTypes:Attachment" lowerBound="0" upperBound="UNBOUNDED"/>
         </RequirementDefinitions>
         <CapabilityDefinitions>
-            <CapabilityDefinition xmlns:ToscaNormativeTypes="http://docs.oasis-open.org/tosca/ToscaNormativeTypes" name="host" capabilityType="ToscaNormativeTypes:Compute" lowerBound="0" upperBound="UNBOUNDED" validSourceTypes=""/>
-            <CapabilityDefinition xmlns:ToscaNormativeTypes="http://docs.oasis-open.org/tosca/ToscaNormativeTypes" name="endpoint" capabilityType="ToscaNormativeTypes:Admin" lowerBound="0" upperBound="UNBOUNDED" validSourceTypes=""/>
-            <CapabilityDefinition xmlns:ToscaNormativeTypes="http://docs.oasis-open.org/tosca/ToscaNormativeTypes" name="os" capabilityType="ToscaNormativeTypes:OperatingSystem" lowerBound="0" upperBound="UNBOUNDED" validSourceTypes=""/>
-            <CapabilityDefinition xmlns:ToscaNormativeTypes="http://docs.oasis-open.org/tosca/ToscaNormativeTypes" name="scalable" capabilityType="ToscaNormativeTypes:Scalable" lowerBound="0" upperBound="UNBOUNDED" validSourceTypes=""/>
-            <CapabilityDefinition xmlns:ToscaNormativeTypes="http://docs.oasis-open.org/tosca/ToscaNormativeTypes" name="binding" capabilityType="ToscaNormativeTypes:Bindable" lowerBound="0" upperBound="UNBOUNDED" validSourceTypes=""/>
+            <CapabilityDefinition xmlns:ToscaNormativeTypes="http://docs.oasis-open.org/tosca/ToscaNormativeTypes" name="host" capabilityType="ToscaNormativeTypes:Compute" lowerBound="0" upperBound="UNBOUNDED"/>
+            <CapabilityDefinition xmlns:ToscaNormativeTypes="http://docs.oasis-open.org/tosca/ToscaNormativeTypes" name="endpoint" capabilityType="ToscaNormativeTypes:Admin" lowerBound="0" upperBound="UNBOUNDED"/>
+            <CapabilityDefinition xmlns:ToscaNormativeTypes="http://docs.oasis-open.org/tosca/ToscaNormativeTypes" name="os" capabilityType="ToscaNormativeTypes:OperatingSystem" lowerBound="0" upperBound="UNBOUNDED"/>
+            <CapabilityDefinition xmlns:ToscaNormativeTypes="http://docs.oasis-open.org/tosca/ToscaNormativeTypes" name="scalable" capabilityType="ToscaNormativeTypes:Scalable" lowerBound="0" upperBound="UNBOUNDED"/>
+            <CapabilityDefinition xmlns:ToscaNormativeTypes="http://docs.oasis-open.org/tosca/ToscaNormativeTypes" name="binding" capabilityType="ToscaNormativeTypes:Bindable" lowerBound="0" upperBound="UNBOUNDED"/>
         </CapabilityDefinitions>
     </NodeType>
 </Definitions>

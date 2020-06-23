@@ -5,7 +5,7 @@
             <RequirementDefinition xmlns:ToscaNormativeTypes="http://docs.oasis-open.org/tosca/ToscaNormativeTypes" name="application" requirementType="ToscaNormativeTypes:Endpoint" lowerBound="0" upperBound="UNBOUNDED"/>
         </RequirementDefinitions>
         <CapabilityDefinitions>
-            <CapabilityDefinition xmlns:ToscaNormativeTypes="http://docs.oasis-open.org/tosca/ToscaNormativeTypes" name="client" capabilityType="ToscaNormativeTypes:Public" lowerBound="0" upperBound="UNBOUNDED" validSourceTypes=""/>
+            <CapabilityDefinition xmlns:ToscaNormativeTypes="http://docs.oasis-open.org/tosca/ToscaNormativeTypes" name="client" capabilityType="ToscaNormativeTypes:Public" lowerBound="0" upperBound="UNBOUNDED"/>
         </CapabilityDefinitions>
     </NodeType>
 </Definitions>
