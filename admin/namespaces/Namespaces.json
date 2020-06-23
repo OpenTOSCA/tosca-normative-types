@@ -4,26 +4,26 @@
     "prefix" : "ToscaNormativeTypes",
     "readableName" : "Tosca XML Base Types",
     "upstreamRepository" : "",
-    "patternCollection" : false,
     "generatedNamespace" : false,
-    "secureCollection" : false
+    "secureCollection" : false,
+    "patternCollection" : false
   },
   "http://docs.oasis-open.org/tosca/ToscaNormativeTypes" : {
     "namespace" : "http://docs.oasis-open.org/tosca/ToscaNormativeTypes",
     "prefix" : "ToscaNormativeTypes",
     "readableName" : "Tosca YAML Normative Types",
     "upstreamRepository" : "",
-    "patternCollection" : false,
     "generatedNamespace" : false,
-    "secureCollection" : false
+    "secureCollection" : false,
+    "patternCollection" : false
   },
   "http://docs.oasis-open.org/tosca/ToscaNormativeTypes/propertiesdefinition/winery" : {
     "namespace" : "http://docs.oasis-open.org/tosca/ToscaNormativeTypes/propertiesdefinition/winery",
     "prefix" : "pdIToscaNormativeTypes",
     "readableName" : "",
     "upstreamRepository" : "",
-    "patternCollection" : false,
     "generatedNamespace" : false,
-    "secureCollection" : false
+    "secureCollection" : false,
+    "patternCollection" : false
   }
 }
