@@ -1,7 +1,7 @@
 {
-    "http://docs.oasis-open.org/tosca/ns/2011/12/ToscaBaseTypes/artifacttypes": {
+    "http://docs.oasis-open.org/tosca/ns/2011/12/ToscaBaseTypes": {
         "namespace": "http://docs.oasis-open.org/tosca/ns/2011/12/ToscaBaseTypes",
-        "prefix": "ToscaNormativeTypes",
+        "prefix": "ToscaBaseTypes",
         "readableName": "Tosca XML Base Types",
         "upstreamRepository": "",
         "secureCollection": false,
