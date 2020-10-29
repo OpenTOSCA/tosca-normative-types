@@ -5,8 +5,8 @@
     "readableName" : "Tosca YAML Normative Artifact Types",
     "upstreamRepository" : "",
     "patternCollection" : false,
-    "generatedNamespace" : false,
-    "secureCollection" : false
+    "secureCollection" : false,
+    "generatedNamespace" : false
   },
   "http://docs.oasis-open.org/tosca/ToscaNormativeTypes/relationshiptypes" : {
     "namespace" : "http://docs.oasis-open.org/tosca/ToscaNormativeTypes/relationshiptypes",
@@ -14,8 +14,8 @@
     "readableName" : "Tosca YAML Normative Relationship Types",
     "upstreamRepository" : "",
     "patternCollection" : false,
-    "generatedNamespace" : false,
-    "secureCollection" : false
+    "secureCollection" : false,
+    "generatedNamespace" : false
   },
   "http://docs.oasis-open.org/tosca/ToscaNormativeTypes/requiremenettypes" : {
     "namespace" : "http://docs.oasis-open.org/tosca/ToscaNormativeTypes/requiremenettypes",
@@ -23,8 +23,17 @@
     "readableName" : "Tosca YAML Normative Requirement Types",
     "upstreamRepository" : "",
     "patternCollection" : false,
-    "generatedNamespace" : false,
-    "secureCollection" : false
+    "secureCollection" : false,
+    "generatedNamespace" : false
+  },
+  "http://docs.oasis-open.org/tosca/ToscaNormativeTypes/nodetypes/generated" : {
+    "namespace" : "http://docs.oasis-open.org/tosca/ToscaNormativeTypes/nodetypes/generated",
+    "prefix" : "ntyIgenerated",
+    "readableName" : "",
+    "upstreamRepository" : "",
+    "patternCollection" : false,
+    "secureCollection" : false,
+    "generatedNamespace" : true
   },
   "http://docs.oasis-open.org/tosca/ns/2011/12/ToscaBaseTypes" : {
     "namespace" : "http://docs.oasis-open.org/tosca/ns/2011/12/ToscaBaseTypes",
@@ -32,8 +41,8 @@
     "readableName" : "Tosca XML Base Types",
     "upstreamRepository" : "",
     "patternCollection" : false,
-    "generatedNamespace" : false,
-    "secureCollection" : false
+    "secureCollection" : false,
+    "generatedNamespace" : false
   },
   "http://docs.oasis-open.org/tosca/ToscaNormativeTypes/nodetypes" : {
     "namespace" : "http://docs.oasis-open.org/tosca/ToscaNormativeTypes/nodetypes",
@@ -41,8 +50,8 @@
     "readableName" : "Tosca YAML Normative Node Types",
     "upstreamRepository" : "",
     "patternCollection" : false,
-    "generatedNamespace" : false,
-    "secureCollection" : false
+    "secureCollection" : false,
+    "generatedNamespace" : false
   },
   "http://docs.oasis-open.org/tosca/ToscaNormativeTypes/propertiesdefinition/winery" : {
     "namespace" : "http://docs.oasis-open.org/tosca/ToscaNormativeTypes/propertiesdefinition/winery",
@@ -50,8 +59,8 @@
     "readableName" : "",
     "upstreamRepository" : "",
     "patternCollection" : false,
-    "generatedNamespace" : false,
-    "secureCollection" : false
+    "secureCollection" : false,
+    "generatedNamespace" : false
   },
   "http://docs.oasis-open.org/tosca/ToscaNormativeTypes/capabilitytypes" : {
     "namespace" : "http://docs.oasis-open.org/tosca/ToscaNormativeTypes/capabilitytypes",
@@ -59,16 +68,16 @@
     "readableName" : "Tosca YAML Normative Capability Types",
     "upstreamRepository" : "",
     "patternCollection" : false,
-    "generatedNamespace" : false,
-    "secureCollection" : false
+    "secureCollection" : false,
+    "generatedNamespace" : false
   },
   "http://docs.oasis-open.org/tosca/ToscaNormativeTypes/requirementtypes" : {
     "namespace" : "http://docs.oasis-open.org/tosca/ToscaNormativeTypes/requirementtypes",
-    "prefix" : "http://docsoasis-openorg/tosca/ToscaNormativeTypes/requirementtypes",
+    "prefix" : "ToscaNormativeRequirementTypes",
     "readableName" : "",
     "upstreamRepository" : "https://github.com/OpenTOSCA/tosca-normative-types",
     "patternCollection" : false,
-    "generatedNamespace" : false,
-    "secureCollection" : false
+    "secureCollection" : false,
+    "generatedNamespace" : false
   }
 }
