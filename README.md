@@ -2,6 +2,8 @@
 
 > Adaptation of TOSCA YAML Normative Types for TOSCA XML.
 
+It also contains frequently used type definitions in the OpenTOSCA ecosystem.
+
 ## Haftungsausschluss
 
 Dies ist ein Forschungsprototyp und enthält insbesondere Beiträge von Studenten.
