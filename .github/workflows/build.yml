@@ -1,0 +1,11 @@
+name: Repository Check
+
+on: [ push, pull_request ]
+
+jobs:
+
+  container:
+    runs-on: ubuntu-latest
+    container: opentosca/winery-cli:latest
+    steps:
+      - run: winery -cd --path .
