@@ -4,8 +4,9 @@ on: [ push, pull_request ]
 
 jobs:
 
-  container:
-    runs-on: ubuntu-latest
-    container: opentosca/winery-cli:latest
-    steps:
-      - run: winery -cd --path .
+    container:
+        runs-on: ubuntu-latest
+        container: opentosca/winery-cli:latest
+        steps:
+            -   uses: actions/checkout@v2
+            -   run: winery -cd --path $GITHUB_WORKSPACE
