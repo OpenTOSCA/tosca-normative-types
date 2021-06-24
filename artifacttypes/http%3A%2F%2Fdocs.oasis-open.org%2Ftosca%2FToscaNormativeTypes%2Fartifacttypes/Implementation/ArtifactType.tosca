@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Definitions xmlns="http://docs.oasis-open.org/tosca/ns/2011/12" targetNamespace="http://docs.oasis-open.org/tosca/ToscaNormativeTypes/artifacttypes" id="winery-defs-for_ToscaNormativeArtifactTypes-Implementation">
+<Definitions xmlns="http://docs.oasis-open.org/tosca/ns/2011/12" targetNamespace="http://docs.oasis-open.org/tosca/ToscaNormativeTypes/artifacttypes" id="ToscaNormativeArtifactTypes-Implementation">
     <ArtifactType name="Implementation" targetNamespace="http://docs.oasis-open.org/tosca/ToscaNormativeTypes/artifacttypes"/>
 </Definitions>

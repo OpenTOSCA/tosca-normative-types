@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Definitions xmlns="http://docs.oasis-open.org/tosca/ns/2011/12" targetNamespace="http://docs.oasis-open.org/tosca/ToscaNormativeTypes/relationshiptypes" id="winery-defs-for_ToscaNormativeRelationshipTypes-RoutesTo">
+<Definitions xmlns="http://docs.oasis-open.org/tosca/ns/2011/12" targetNamespace="http://docs.oasis-open.org/tosca/ToscaNormativeTypes/relationshiptypes" id="ToscaNormativeRelationshipTypes-RoutesTo">
     <RelationshipType name="RoutesTo" abstract="no" final="no" targetNamespace="http://docs.oasis-open.org/tosca/ToscaNormativeTypes/relationshiptypes">
         <DerivedFrom xmlns:ToscaNormativeTypes="http://docs.oasis-open.org/tosca/ns/2011/12/ToscaBaseTypes" typeRef="ToscaNormativeTypes:ConnectsTo"/>
     </RelationshipType>
