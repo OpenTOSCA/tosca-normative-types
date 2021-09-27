@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<Definitions xmlns="http://docs.oasis-open.org/tosca/ns/2011/12" targetNamespace="http://docs.oasis-open.org/tosca/ToscaNormativeTypes/nodetype" id="ToscaNormativeNodeTypes-Compute">
+<Definitions xmlns="http://docs.oasis-open.org/tosca/ns/2011/12" targetNamespace="http://docs.oasis-open.org/tosca/ToscaNormativeTypes/nodetypes" id="ToscaNormativeNodeTypes-Compute">
     <NodeType name="Compute" targetNamespace="http://docs.oasis-open.org/tosca/ToscaNormativeTypes/nodetypes">
         <RequirementDefinitions>
             <RequirementDefinition xmlns:ToscaNormativeRequirementTypes="http://docs.oasis-open.org/tosca/ToscaNormativeTypes/requirementtypes" name="local_storage" requirementType="ToscaNormativeRequirementTypes:Attachment" lowerBound="0" upperBound="UNBOUNDED"/>
