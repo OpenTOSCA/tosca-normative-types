@@ -35,5 +35,6 @@
                 <winery:type>xsd:string</winery:type>
             </winery:properties>
         </winery:PropertiesDefinition>
+        <DerivedFrom xmlns:ToscaNormativeCapabilityTypes="http://docs.oasis-open.org/tosca/ToscaNormativeTypes/capabilitytypes" typeRef="ToscaNormativeCapabilityTypes:Container"/>
     </CapabilityType>
 </Definitions>

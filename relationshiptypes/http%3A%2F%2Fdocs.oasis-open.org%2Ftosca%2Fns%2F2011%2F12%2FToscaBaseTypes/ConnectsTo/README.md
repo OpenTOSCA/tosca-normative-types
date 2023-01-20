@@ -9,9 +9,9 @@ Then A is the source and B is the target.
 The implementation of the `connectTo` method may be implemented at A or B.
 The name of the operation properties are matched to property names in the stacks of A and B.
 It depends on the placement of the IA where the properties are searched.
-The are always searched at the opposite end.
+They are always searched at the opposite end.
 So, in case the IA is attached to A, the properties are searched at B.
-In case properties should be explicitly searched for at the source or target, they have to prefixed with `source_`/`target_` at the operation definition.
+In case properties should be explicitly searched for at the source or target, they have to prefixed with `SOURCE_`/`TARGET_` at the operation definition.
 
 ## Properties
 
