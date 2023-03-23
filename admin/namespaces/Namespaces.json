@@ -5,7 +5,7 @@
     "readableName" : "Tosca YAML Normative Artifact Types",
     "generatedNamespace" : false,
     "patternCollection" : false,
-    "repositoryId" : "TOSCA-NormativeTypes",
+    "repositoryId" : "TOSCANormativeTypes",
     "secureCollection" : false
   },
   "http://docs.oasis-open.org/tosca/ToscaNormativeTypes/relationshiptypes" : {
@@ -14,7 +14,7 @@
     "readableName" : "Tosca YAML Normative Relationship Types",
     "generatedNamespace" : false,
     "patternCollection" : false,
-    "repositoryId" : "TOSCA-NormativeTypes",
+    "repositoryId" : "TOSCANormativeTypes",
     "secureCollection" : false
   },
   "http://docs.oasis-open.org/tosca/ToscaNormativeTypes/requiremenettypes" : {
@@ -23,7 +23,7 @@
     "readableName" : "Tosca YAML Normative Requirement Types",
     "generatedNamespace" : false,
     "patternCollection" : false,
-    "repositoryId" : "TOSCA-NormativeTypes",
+    "repositoryId" : "TOSCANormativeTypes",
     "secureCollection" : false
   },
   "http://docs.oasis-open.org/tosca/ns/2011/12/ToscaBaseTypes" : {
@@ -32,7 +32,7 @@
     "readableName" : "Tosca XML Base Types",
     "generatedNamespace" : false,
     "patternCollection" : false,
-    "repositoryId" : "TOSCA-NormativeTypes",
+    "repositoryId" : "TOSCANormativeTypes",
     "secureCollection" : false
   },
   "http://docs.oasis-open.org/tosca/ToscaNormativeTypes/nodetypes" : {
@@ -41,7 +41,7 @@
     "readableName" : "Tosca YAML Normative Node Types",
     "generatedNamespace" : false,
     "patternCollection" : false,
-    "repositoryId" : "TOSCA-NormativeTypes",
+    "repositoryId" : "TOSCANormativeTypes",
     "secureCollection" : false
   },
   "http://docs.oasis-open.org/tosca/ToscaNormativeTypes/propertiesdefinition/winery" : {
@@ -50,7 +50,7 @@
     "readableName" : "",
     "generatedNamespace" : false,
     "patternCollection" : false,
-    "repositoryId" : "TOSCA-NormativeTypes",
+    "repositoryId" : "TOSCANormativeTypes",
     "secureCollection" : false
   },
   "http://docs.oasis-open.org/tosca/ToscaNormativeTypes/capabilitytypes" : {
@@ -59,7 +59,7 @@
     "readableName" : "Tosca YAML Normative Capability Types",
     "generatedNamespace" : false,
     "patternCollection" : false,
-    "repositoryId" : "TOSCA-NormativeTypes",
+    "repositoryId" : "TOSCANormativeTypes",
     "secureCollection" : false
   },
   "http://docs.oasis-open.org/tosca/ToscaNormativeTypes/requirementtypes" : {
@@ -68,7 +68,7 @@
     "readableName" : "",
     "generatedNamespace" : false,
     "patternCollection" : false,
-    "repositoryId" : "TOSCA-NormativeTypes",
+    "repositoryId" : "TOSCANormativeTypes",
     "secureCollection" : false
   }
 }
